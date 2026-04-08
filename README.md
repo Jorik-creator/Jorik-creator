@@ -19,7 +19,7 @@
 ┌─────────────────────────────────────────────────┐
 │  > whoami                                       │
 │  Jorik (Yaroslav Polishchuk)                    │
-│  CS Student @ SUICT Kyiv  |  Münster, DE  🇩🇪   │
+│  CS Student @ SUICT Kyiv  |  Münster, DE  🇩🇪    │
 │                                                 │
 │  > cat interests.txt                            │
 │  Python · Django · Java · Web · Linux           │
