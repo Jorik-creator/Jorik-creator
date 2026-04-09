@@ -1,12 +1,12 @@
 <div align="center">
 
 <pre>
-     ██╗ ██████╗ ██████╗ ██╗██╗  ██╗
-     ██║██╔═══██╗██╔══██╗██║██║ ██╔╝
-     ██║██║   ██║██████╔╝██║█████╔╝ 
- ██  ██║██║   ██║██╔══██╗██║██╔═██╗ 
-╚█████╔╝╚██████╔╝██║  ██║██║██║  ██╗
- ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+     тЦИтЦИтХЧ тЦИтЦИтЦИтЦИтЦИтЦИтХЧ тЦИтЦИтЦИтЦИтЦИтЦИтХЧ тЦИтЦИтХЧтЦИтЦИтХЧ  тЦИтЦИтХЧ
+     тЦИтЦИтХСтЦИтЦИтХФтХРтХРтХРтЦИтЦИтХЧтЦИтЦИтХФтХРтХРтЦИтЦИтХЧтЦИтЦИтХСтЦИтЦИтХС тЦИтЦИтХФтХЭ
+     тЦИтЦИтХСтЦИтЦИтХС   тЦИтЦИтХСтЦИтЦИтЦИтЦИтЦИтЦИтХФтХЭтЦИтЦИтХСтЦИтЦИтЦИтЦИтЦИтХФтХЭ 
+ тЦИтЦИ  тЦИтЦИтХСтЦИтЦИтХС   тЦИтЦИтХСтЦИтЦИтХФтХРтХРтЦИтЦИтХЧтЦИтЦИтХСтЦИтЦИтХФтХРтЦИтЦИтХЧ 
+тХЪтЦИтЦИтЦИтЦИтЦИтХФтХЭтХЪтЦИтЦИтЦИтЦИтЦИтЦИтХФтХЭтЦИтЦИтХС  тЦИтЦИтХСтЦИтЦИтХСтЦИтЦИтХС  тЦИтЦИтХЧ
+ тХЪтХРтХРтХРтХРтХЭ  тХЪтХРтХРтХРтХРтХРтХЭ тХЪтХРтХЭ  тХЪтХРтХЭтХЪтХРтХЭтХЪтХРтХЭ  тХЪтХРтХЭ
 </pre>
 
 ### Yaroslav Polishchuk
@@ -41,33 +41,39 @@ I value steady progress, careful implementation, and learning that is proven in 
 
 ### MicroVolunteer
 
+[![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-183c30?style=flat&logo=github&logoColor=white&labelColor=1f2937)](https://github.com/Jorik-creator/Micro-Volunteer-Diploma)
+
 `MicroVolunteer` is my current main project and diploma project. It is a web platform connecting people who need help with everyday tasks and volunteers who can provide local support.
 
 Its goal is to make practical assistance more accessible at the local level through a structured, usable web system.
 
-**Concise stack:** `Python 3.12` `Django 5` `PostgreSQL 16` `Bootstrap 5` `Leaflet.js` `Chart.js` `Docker` `Nginx`
+![Python](https://img.shields.io/badge/Python%203.12-183c30?style=flat&logo=python&logoColor=white&labelColor=1f2937) ![Django](https://img.shields.io/badge/Django%205-183c30?style=flat&logo=django&logoColor=white&labelColor=1f2937) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2016-183c30?style=flat&logo=postgresql&logoColor=white&labelColor=1f2937) ![Bootstrap](https://img.shields.io/badge/Bootstrap%205-275244?style=flat&logo=bootstrap&logoColor=white&labelColor=1f2937) ![Leaflet](https://img.shields.io/badge/Leaflet.js-275244?style=flat&logo=leaflet&logoColor=white&labelColor=1f2937) ![Chart.js](https://img.shields.io/badge/Chart.js-275244?style=flat&logo=chartdotjs&logoColor=white&labelColor=1f2937) ![Docker](https://img.shields.io/badge/Docker-4b5563?style=flat&logo=docker&logoColor=white&labelColor=1f2937) ![Nginx](https://img.shields.io/badge/Nginx-4b5563?style=flat&logo=nginx&logoColor=white&labelColor=1f2937)
 
 ## Stack
 
 **Current strengths**
 
-`Python` `Django` `PostgreSQL` `Java` `JavaScript`
+![Python](https://img.shields.io/badge/Python-183c30?style=flat&logo=python&logoColor=white&labelColor=1f2937) ![Django](https://img.shields.io/badge/Django-183c30?style=flat&logo=django&logoColor=white&labelColor=1f2937) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-183c30?style=flat&logo=postgresql&logoColor=white&labelColor=1f2937) ![Java](https://img.shields.io/badge/Java-183c30?style=flat&logo=openjdk&logoColor=white&labelColor=1f2937) ![JavaScript](https://img.shields.io/badge/JavaScript-183c30?style=flat&logo=javascript&logoColor=white&labelColor=1f2937)
 
 **Working with**
 
-`HTML` `CSS` `Bootstrap` `SQLite` `Git` `Docker`
+![HTML](https://img.shields.io/badge/HTML-275244?style=flat&logo=html5&logoColor=white&labelColor=1f2937) ![CSS](https://img.shields.io/badge/CSS-275244?style=flat&logo=css&logoColor=white&labelColor=1f2937) ![Bootstrap](https://img.shields.io/badge/Bootstrap-275244?style=flat&logo=bootstrap&logoColor=white&labelColor=1f2937) ![SQLite](https://img.shields.io/badge/SQLite-275244?style=flat&logo=sqlite&logoColor=white&labelColor=1f2937) ![Git](https://img.shields.io/badge/Git-275244?style=flat&logo=git&logoColor=white&labelColor=1f2937) ![Docker](https://img.shields.io/badge/Docker-275244?style=flat&logo=docker&logoColor=white&labelColor=1f2937)
 
 **Environment**
 
-`Linux` `Figma`
+![Linux](https://img.shields.io/badge/Linux-4b5563?style=flat&logo=linux&logoColor=white&labelColor=1f2937) ![Figma](https://img.shields.io/badge/Figma-4b5563?style=flat&logo=figma&logoColor=white&labelColor=1f2937)
 
 My current foundation is backend and web development, but I do not treat my present stack as a limit.
 
 ## Contact
 
-- Email: [y.polishchuk05@gmail.com](mailto:y.polishchuk05@gmail.com)
-- LinkedIn: [yorik-polishchuk](https://www.linkedin.com/in/yorik-polishchuk)
-- Location: `Muenster, Germany`
+<div align="center">
+
+[![Email](https://img.shields.io/badge/y.polishchuk05%40gmail.com-183c30?style=flat&logo=gmail&logoColor=white&labelColor=1f2937)](mailto:y.polishchuk05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/yorik--polishchuk-275244?style=flat&logo=linkedin&logoColor=white&labelColor=1f2937)](https://www.linkedin.com/in/yorik-polishchuk)
+![Location](https://img.shields.io/badge/Muenster%2C%20Germany-4b5563?style=flat&logo=googlemaps&logoColor=white&labelColor=1f2937)
+
+</div>
 
 ## Philosophy
 
