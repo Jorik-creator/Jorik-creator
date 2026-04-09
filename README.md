@@ -1,12 +1,12 @@
 <div align="center">
 
 <pre>
-     тЦИтЦИтХЧ тЦИтЦИтЦИтЦИтЦИтЦИтХЧ тЦИтЦИтЦИтЦИтЦИтЦИтХЧ тЦИтЦИтХЧтЦИтЦИтХЧ  тЦИтЦИтХЧ
-     тЦИтЦИтХСтЦИтЦИтХФтХРтХРтХРтЦИтЦИтХЧтЦИтЦИтХФтХРтХРтЦИтЦИтХЧтЦИтЦИтХСтЦИтЦИтХС тЦИтЦИтХФтХЭ
-     тЦИтЦИтХСтЦИтЦИтХС   тЦИтЦИтХСтЦИтЦИтЦИтЦИтЦИтЦИтХФтХЭтЦИтЦИтХСтЦИтЦИтЦИтЦИтЦИтХФтХЭ 
- тЦИтЦИ  тЦИтЦИтХСтЦИтЦИтХС   тЦИтЦИтХСтЦИтЦИтХФтХРтХРтЦИтЦИтХЧтЦИтЦИтХСтЦИтЦИтХФтХРтЦИтЦИтХЧ 
-тХЪтЦИтЦИтЦИтЦИтЦИтХФтХЭтХЪтЦИтЦИтЦИтЦИтЦИтЦИтХФтХЭтЦИтЦИтХС  тЦИтЦИтХСтЦИтЦИтХСтЦИтЦИтХС  тЦИтЦИтХЧ
- тХЪтХРтХРтХРтХРтХЭ  тХЪтХРтХРтХРтХРтХРтХЭ тХЪтХРтХЭ  тХЪтХРтХЭтХЪтХРтХЭтХЪтХРтХЭ  тХЪтХРтХЭ
+     ██╗ ██████╗ ██████╗ ██╗██╗  ██╗
+     ██║██╔═══██╗██╔══██╗██║██║ ██╔╝
+     ██║██║   ██║██████╔╝██║█████╔╝ 
+ ██  ██║██║   ██║██╔══██╗██║██╔═██╗ 
+╚█████╔╝╚██████╔╝██║  ██║██║██║  ██╗
+ ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
 </pre>
 
 ### Yaroslav Polishchuk
@@ -27,9 +27,6 @@ I am Jorik, a Software Engineering student focused on backend and web developmen
 
 I am currently looking for an internship or dual study opportunity in Germany while developing `MicroVolunteer` as my diploma project.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jorik-creator&show_icons=true&hide_border=true&rank_icon=github&disable_animations=true&title_color=cfe9dc&text_color=cbd5d1&icon_color=6aa58b&bg_color=0f1412" alt="GitHub statistics" width="56%" />
-</p>
 
 ## About
 
